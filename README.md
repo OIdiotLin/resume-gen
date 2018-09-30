@@ -1,5 +1,9 @@
 # resume-gen
 
+## Preview
+
+http://oidiotlin.com:8090
+
 ## Project setup
 ```
 npm install
