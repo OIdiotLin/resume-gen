@@ -61,7 +61,7 @@
 
 <style>
     html {
-        font-family: Microsoft YaHei UI, Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, \5FAE软雅黑, Arial, sans-serif;
+        font-family: Microsoft YaHei UI, Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial, sans-serif;
         /*align-content: center;*/
     }
 
